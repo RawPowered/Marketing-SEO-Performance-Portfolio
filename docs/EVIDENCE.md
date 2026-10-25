@@ -17,6 +17,8 @@ This specialty portfolio indexes existing public work. It does not replace the o
 
 This repository reuses only existing public images, screenshots and aggregate statistics. Private client source, customer records, CRM URLs, personal identifiers and credentials are excluded. The relevant source and status links appear beside each case.
 
+The 305UGC reporting window was pre-sale first-launch preparation with no active paid campaigns, as supplied by the project owner. Search Console results are organic-search measures. GA4 source labels are separate measurements and do not by themselves prove paid delivery. Historical owner-reported notes describe manual phone calls after Google searches and older campaigns using third-party landing pages that are no longer accessible; these notes are context, not independently verified call or sales records.
+
 The snapshots are dated, channel-specific observations. They do not isolate marketing causality or establish sales efficiency. The ongoing schedule, backlink acquisition, live LLM/bot files and complete conversion attribution need fresh evidence before being stated as complete.
 
 Prepared October 25, 2026. Dates in underlying reports control the period represented; this preparation date does not refresh older live-site checks.
